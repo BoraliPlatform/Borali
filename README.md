@@ -1,4 +1,6 @@
-<h1 align="center">
+> Status: Developing ⚠️
+>
+<h1 align="center"> 
 <br>
   <img src="https://user-images.githubusercontent.com/50224013/129611325-4328b013-97e1-46bc-8fc5-ec527f4004ca.png" alt="Borali Logo" width="480">
 <br>
@@ -8,7 +10,7 @@ Borali
 
 <p align="center">O Borali, é um aplicativo para os consumidores de comida de rua que permite ver a localização dos vendedores com seus produtos ofertados e preços. </p>
 
-<h1 >Funcionalidades</h1>
+<h1 >Funcionalidades ⚙️</h1>
 <p> As funcionalidades que serão implementadas no desenvolvimento da aplicação:</p>
 <ul>
 <li>Mapeamento dos vendedores de comida de rua</li>
@@ -17,7 +19,7 @@ Borali
 </ul>
 <p></p>
 
-<h1 >Telas</h1>
+<h1 >Telas 📱</h1>
 <h2 >Telas da Inicialização da Aplicação</h2>
 <div display="inline-block">
   <img src="https://user-images.githubusercontent.com/50224013/129614548-282be125-9898-418d-89d0-2c29122a4be7.png" alt="Tela de Splash" height="500">
@@ -34,7 +36,7 @@ Borali
 </div>
 <p></p>
 
-<h1>🛠 Tecnologias</h1>
+<h1>Tecnologias 🛠</h1>
 <p></p>
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -44,7 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-<h1 >Autores</h1>
+<h1 >Autores </h1>
 <p></p>
 <table>
 <thead>
